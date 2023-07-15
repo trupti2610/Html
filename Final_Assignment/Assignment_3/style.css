@@ -1,0 +1,48 @@
+.div{
+    height: 600px;
+    width: 80%;
+}
+#f2
+            {
+                margin-top:35px;
+                border: 3px solid #ccc;
+                /* margin-right: 1200px; */
+                display: flex;
+                /* margin-bottom: 100px; */
+               /* width:100%; */
+            }
+            #button{
+                width: 100%;
+                /* opacity: 0.5; */
+            }
+            #button:hover{
+                opacity: 0.5;
+                background-color:green;
+            }
+            ::placeholder {
+                color: gray;
+              
+                }
+                b
+                {
+                    color: #063970;
+                }
+                .input[type=text][type=hidden],textarea{
+                    display:flex;
+                    /* width:100%;
+                    font-weight:bold ;
+                    border:15px solid black;
+                    border-radius: 5px solid black; */
+                }
+                body{
+                    /* height:100%;
+                    width:100%; */
+				background: url('https://img.freepik.com/free-vector/abstract-style-watercolor-background_23-2149054962.jpg?w=740&t=st=1689327557~exp=1689328157~hmac=f56e39279ee90b24ac669bcddaee1160d530fe41c556a4c0e3854ef17c5fd510');
+                /* background-repeat: no-repeat; 
+                position:cover;
+                display : block;
+                height */
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-attachment:fixed ;
+			}
